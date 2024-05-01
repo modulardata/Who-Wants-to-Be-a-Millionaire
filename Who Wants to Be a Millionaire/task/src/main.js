@@ -14,4 +14,4 @@ const game = async () => {
 
 }
 
-game();
+game().then(r =>  console.log(r));
