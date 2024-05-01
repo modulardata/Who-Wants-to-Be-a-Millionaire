@@ -1,0 +1,20 @@
+type: edu
+files:
+  - name: src/index.html
+    visible: true
+    learner_created: false
+  - name: src/main.js
+    visible: true
+    learner_created: false
+  - name: src/question.json
+    visible: true
+    learner_created: false
+  - name: src/style.css
+    visible: true
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/359/stages/2107/implement#comment
+status: Solved
+record: 4

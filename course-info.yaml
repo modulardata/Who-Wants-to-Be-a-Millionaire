@@ -1,0 +1,17 @@
+type: hyperskill
+title: Who Wants to Be a Millionaire
+language: English
+summary: "<div>\r\n<p>Some may think that front-end development is only about manufacturing\
+  \ similar web pages like online shops or landings. But the things you can program\
+  \ with HTML, CSS, and JS are infinite and bounded with only your imagination.\_\
+  </p>\r\n\r\n<p>Browser games are one of the items on this list because they do not\
+  \ always require a server, which means you can apply your skills and knowledge in\
+  \ the interface to create your own game, which is what the project is about. When\
+  \ creating a game, the emphasis will be on JS. Therefore, we will almost not use\
+  \ HTML and CSS here, and all HTML markup will be done using JS.</p>\r\n</div><br/><br/>Learn\
+  \ more at <a href=\"https://hyperskill.org/projects/359?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/359</a>"
+programming_language: JavaScript
+content:
+  - Who Wants to Be a Millionaire
+mode: Study

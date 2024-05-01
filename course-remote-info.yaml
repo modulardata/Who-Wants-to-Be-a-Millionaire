@@ -1,0 +1,136 @@
+hyperskill_project:
+  id: 359
+  ide_files: https://cogniterra.org/media/attachments/lesson/28500/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+  - id: 2103
+    step: 29487
+    is_completed: true
+  - id: 2104
+    step: 29488
+    is_completed: true
+  - id: 2105
+    step: 29489
+    is_completed: true
+  - id: 2106
+    step: 29490
+    is_completed: true
+  - id: 2107
+    step: 29491
+    is_completed: true
+topics:
+  0:
+    - title: Comments
+      theory_id: 8170
+    - title: Introduction to JavaScript
+      theory_id: 8016
+    - title: Writing first program
+      theory_id: 8154
+    - title: Multi-line programs
+      theory_id: 8162
+    - title: Declaring variables
+      theory_id: 8186
+    - title: Strings and numbers
+      theory_id: 8194
+    - title: Arithmetic operators
+      theory_id: 8372
+    - title: Functions
+      theory_id: 8388
+    - title: Defining functions
+      theory_id: 24012
+    - title: Anonymous function
+      theory_id: 26924
+    - title: Arrow Functions
+      theory_id: 8455
+    - title: JSON
+      theory_id: 6854
+    - title: Introduction to Objects
+      theory_id: 8588
+    - title: Null and Undefined
+      theory_id: 8564
+    - title: Boolean and Logical Operators
+      theory_id: 8471
+    - title: Type Conversion
+      theory_id: 8380
+    - title: Comparison Operators
+      theory_id: 8580
+    - title: Conditional Operators
+      theory_id: 8889
+    - title: Introduction to Promises
+      theory_id: 9980
+    - title: "\"then\", \"catch\" and \"finally\" methods"
+      theory_id: 9989
+    - title: Async/await
+      theory_id: 27928
+  1:
+    - title: Block-level elements
+      theory_id: 7271
+    - title: Inline elements
+      theory_id: 7518
+    - title: What is CSS
+      theory_id: 7678
+    - title: HTML attributes id and class
+      theory_id: 7527
+    - title: Connecting CSS to HTML
+      theory_id: 7418
+    - title: Basic syntax
+      theory_id: 7722
+    - title: CSS Selectors
+      theory_id: 7738
+    - title: DOM
+      theory_id: 8635
+    - title: Connecting JavaScript to HTML
+      theory_id: 7510
+    - title: Object JSON
+      theory_id: 24027
+    - title: HTML basics
+      theory_id: 6434
+    - title: Tags and Attributes
+      theory_id: 7536
+    - title: HTML page structure
+      theory_id: 6491
+    - title: Comments
+      theory_id: 7502
+    - title: Array
+      theory_id: 16141
+    - title: "Random: getting and generating"
+      theory_id: 18841
+    - title: Intro to DOM events
+      theory_id: 10857
+    - title: DOM methods
+      theory_id: 8662
+    - title: The "addEventListener" method
+      theory_id: 8723
+    - title: Modifying DOM
+      theory_id: 21549
+  2:
+    - title: Array creation
+      theory_id: 16356
+    - title: Increment and Decrement
+      theory_id: 9102
+    - title: "Loops: for and for...in"
+      theory_id: 9119
+  3:
+    - title: Comments
+      theory_id: 7730
+    - title: Visibility
+      theory_id: 10840
+    - title: Intro to Tables
+      theory_id: 10832
+    - title: Display
+      theory_id: 21211
+  4:
+    - title: Relative units
+      theory_id: 10671
+    - title: Absolute units
+      theory_id: 10605
+    - title: Attribute selectors and Universal selector
+      theory_id: 12228
+    - title: Code style
+      theory_id: 12446
+    - title: Margin and Padding
+      theory_id: 26903
+    - title: Code style
+      theory_id: 11469
