@@ -1,14 +1,11 @@
 {
   "devDependencies": {
-    "hs-test-web-ts": "https://github.com/hyperskill/hs-test-web/archive/release.tar.gz",
     "mocha": "^10.2.0",
-    "puppeteer": "^19.3.0"
+    "hs-test-web": "https://github.com/hyperskill/hs-test-web/archive/release.tar.gz",
+    "puppeteer": "^21.0.0"
   },
   "scripts": {
-    "test": "mocha test"
+    "test": "mocha"
   },
-  "type": "module",
-  "dependencies": {
-    "http-server": "^14.1.1"
-  }
+  "type":"module"
 }

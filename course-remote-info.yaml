@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://cogniterra.org/media/attachments/lesson/28500/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+update_date: "Mon, 18 Nov 2024 06:57:32 UTC"
 stages:
   - id: 2103
     step: 29487
@@ -44,12 +44,6 @@ topics:
       theory_id: 26924
     - title: Arrow Functions
       theory_id: 8455
-    - title: JSON
-      theory_id: 6854
-    - title: Introduction to Objects
-      theory_id: 8588
-    - title: Null and Undefined
-      theory_id: 8564
     - title: Boolean and Logical Operators
       theory_id: 8471
     - title: Type Conversion
@@ -69,6 +63,8 @@ topics:
       theory_id: 7271
     - title: Inline elements
       theory_id: 7518
+    - title: DOM
+      theory_id: 8635
     - title: What is CSS
       theory_id: 7678
     - title: HTML attributes id and class
@@ -79,24 +75,20 @@ topics:
       theory_id: 7722
     - title: CSS Selectors
       theory_id: 7738
-    - title: DOM
-      theory_id: 8635
     - title: Connecting JavaScript to HTML
       theory_id: 7510
     - title: Object JSON
       theory_id: 24027
-    - title: HTML basics
-      theory_id: 6434
     - title: Tags and Attributes
       theory_id: 7536
     - title: HTML page structure
       theory_id: 6491
     - title: Comments
       theory_id: 7502
+    - title: Introduction to Objects
+      theory_id: 8588
     - title: Array
       theory_id: 16141
-    - title: "Random: getting and generating"
-      theory_id: 18841
     - title: Intro to DOM events
       theory_id: 10857
     - title: DOM methods
@@ -105,6 +97,8 @@ topics:
       theory_id: 8723
     - title: Modifying DOM
       theory_id: 21549
+    - title: "Random: getting and generating"
+      theory_id: 18841
   2:
     - title: Array creation
       theory_id: 16356
